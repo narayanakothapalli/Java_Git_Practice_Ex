@@ -21,7 +21,7 @@ public class StreamOne {
         List<Integer> finList=l1.stream().filter(i->i%2==0).collect(Collectors.toList());
 
         System.out.println(finList);
-        System.out.print(" test the secound commit");
+        System.out.print(" test the secound commit/ with branch examples");
 
 
 
